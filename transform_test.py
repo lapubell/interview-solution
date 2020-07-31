@@ -5,7 +5,9 @@ expectations = {
     "James smith": "James Smith",
     "Ms Sally Smith": "Ms. Sally Smith",
     "MRS. KRISTIN BROWN": "Ms. Kristin Brown",
-    "Mister Tom Jones": "Mr. Tom Jones"
+    "Mister Tom Jones": "Mr. Tom Jones",
+    "doctor jane doe": "Dr. Jane Doe",
+    "Tom Marvelo Riddle": "Tom Marvelo Riddle"
 }
 
 for i, o in expectations.items():
